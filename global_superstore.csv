@@ -1,0 +1,31 @@
+Order_ID,Order_Date,Customer_Name,Segment,Region,Category,Product,Quantity,Sales,Profit
+O001,2026-01-05,Aarav,Consumer,West,Technology,Laptop,2,90000,12000
+O002,2026-01-08,Diya,Corporate,East,Furniture,Chair,4,12000,1800
+O003,2026-01-12,Rohan,Consumer,North,Office Supplies,Paper,10,2500,600
+O004,2026-01-15,Anaya,Home Office,South,Technology,Phone,3,45000,7000
+O005,2026-01-20,Vivaan,Corporate,West,Furniture,Table,2,18000,-1200
+O006,2026-02-03,Isha,Consumer,East,Office Supplies,Pen,20,1000,300
+O007,2026-02-07,Arjun,Corporate,North,Technology,Monitor,3,30000,4500
+O008,2026-02-11,Myra,Home Office,South,Furniture,Sofa,1,25000,3500
+O009,2026-02-16,Kabir,Consumer,West,Office Supplies,Notebook,15,3000,900
+O010,2026-02-22,Saanvi,Corporate,East,Technology,Printer,2,16000,2400
+O011,2026-03-02,Reyansh,Consumer,North,Furniture,Desk,2,14000,1800
+O012,2026-03-06,Pari,Home Office,West,Technology,Tablet,4,40000,6000
+O013,2026-03-10,Atharv,Corporate,South,Office Supplies,Folder,12,1800,450
+O014,2026-03-15,Kiara,Consumer,East,Furniture,Chair,6,18000,2700
+O015,2026-03-21,Advik,Corporate,North,Technology,Laptop,1,45000,5000
+O016,2026-04-04,Navya,Consumer,West,Office Supplies,Paper,25,6250,1500
+O017,2026-04-08,Kiaan,Home Office,South,Technology,Phone,2,30000,4200
+O018,2026-04-12,Meera,Corporate,East,Furniture,Table,3,27000,3200
+O019,2026-04-17,Vihaan,Consumer,North,Office Supplies,Pen,30,1500,500
+O020,2026-04-23,Aadhya,Corporate,West,Technology,Monitor,2,20000,3000
+O021,2026-05-03,Krishna,Home Office,East,Furniture,Sofa,2,50000,6500
+O022,2026-05-07,Tara,Consumer,South,Office Supplies,Notebook,20,4000,1200
+O023,2026-05-11,Dev,Corporate,North,Technology,Printer,3,24000,3600
+O024,2026-05-16,Riya,Consumer,West,Furniture,Desk,1,7000,-500
+O025,2026-05-22,Ishaan,Home Office,South,Technology,Tablet,2,20000,2800
+O026,2026-06-02,Avni,Corporate,East,Office Supplies,Folder,20,3000,800
+O027,2026-06-06,Samarth,Consumer,North,Technology,Laptop,2,90000,11000
+O028,2026-06-12,Anika,Home Office,West,Furniture,Chair,5,15000,2200
+O029,2026-06-18,Yash,Corporate,South,Office Supplies,Paper,18,4500,1000
+O030,2026-06-24,Prisha,Consumer,East,Technology,Phone,4,60000,9000
